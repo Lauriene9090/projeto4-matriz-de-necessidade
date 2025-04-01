@@ -25,6 +25,7 @@ Comunidade colaborativa: Um ambiente de suporte mútuo entre programadores. Feed
 5-Você recomendaria o CodeHelp.ds (CH) para outros programadores iniciantes? Por quê?
 
 ---------------------------RESPOSTAS-----------------------------------------------
+
 matriz-de-necessidade/DRM-News
 
 1 -qual o nivel de importancia do nosso projeto para distribuição de informações da escola?(0 = Nada importante, 10 = Extremamente importante)
